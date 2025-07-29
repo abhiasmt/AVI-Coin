@@ -1,0 +1,2 @@
+# AVI-Coin
+Distributed Wallet
