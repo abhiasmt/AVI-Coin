@@ -18,4 +18,6 @@ To empower users with seamless, secure control over their cryptocurrency funds t
 - Implementing wallet recovery and access control mechanisms.
 - Enabling interaction with DeFi protocols directly from the wallet for yield farming or staking.
 
+contract address: 0xe4033f18D0B5C2ACb2556761be52d117Dda13561
+
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/80489694-cce6-46c6-86fb-69197d5b15b6" />
